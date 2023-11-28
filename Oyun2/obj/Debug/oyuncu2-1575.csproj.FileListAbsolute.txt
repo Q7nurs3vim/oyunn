@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\oyuncu2-1575.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\oyuncu2-1575.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\Oyun2.Form1.resources
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\Oyun2.Properties.Resources.resources
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\oyuncu2-1575.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\oyuncu2-1575.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\Oyun2.exe
+C:\Users\User\Desktop\Oyun2\Oyun2\obj\Debug\Oyun2.pdb
+C:\Users\User\Desktop\Oyun2\Oyun2\bin\Debug\Oyun2.exe.config
+C:\Users\User\Desktop\Oyun2\Oyun2\bin\Debug\Oyun2.exe
+C:\Users\User\Desktop\Oyun2\Oyun2\bin\Debug\Oyun2.pdb
